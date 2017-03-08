@@ -8,3 +8,4 @@
 1. Links einsetzen mit  [BlowTrump](http://trumpdonald.org/)
 1. Im Gui-Hub Server ein neues Projekt erstellen 
 1. Das Projekt mit dem angezeigten Link auf den Server laden (Push)
+1. Hilfe bei den [Befehlen](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h6)
