@@ -1,0 +1,10 @@
+# Workflow
+1. Git Gui öffnen und neuen Repository erzeugen
+1. Notepad++ öffnen und Datei unter .md Datentyp im Repository speichern
+1. Text eingeben
+1. Mit Git Dokument nach Änderungen durchscannen, Änderungen hinzufügen, dokumentieren, das Ganze bestätigen
+1. Weitere Änderungen nach diesem Schema durchführen
+1. Bilder einsetzen mit ![Text](Name des Bildes.jpg)
+1. Links einsetzen mit  [Text](Link-Adresse)
+1. Im Gui-Hub Server ein neues Projekt erstellen 
+1. Das Projekt mit dem angezeigten Link auf den Server laden 
